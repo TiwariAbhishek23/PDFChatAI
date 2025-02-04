@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "terminal.integrated.environmentChangesIndicator": "on",
+    "python.createEnvironment.contentButton": "show"
+}
